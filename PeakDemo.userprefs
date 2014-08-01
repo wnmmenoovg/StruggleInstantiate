@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WeaponCollision.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="69" Column="17" />
+      <File FileName="Assets\Scripts\BallController.cs" Line="126" Column="33" />
+      <File FileName="Assets\Scripts\PlayerEntity.cs" Line="19" Column="33" />
+      <File FileName="Assets\Scripts\ResizeText.cs" Line="20" Column="37" />
+      <File FileName="Assets\Scripts\CameraSize.cs" Line="26" Column="41" />
+      <File FileName="Assets\Scripts\WeaponCollision.cs" Line="52" Column="3" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

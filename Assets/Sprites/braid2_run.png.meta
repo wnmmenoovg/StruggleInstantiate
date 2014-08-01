@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 7f8fac7ea580d0746b843a0373ca99fc
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: braid2_run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 276
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 276
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 274
+        width: 106
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 275
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 276
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 274
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 274
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 273
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 138
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 137
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 141
+        width: 108
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 145
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 144
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 143
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_16
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 142
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_17
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 141
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 104
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 98
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_24
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braid2_run_25
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
